@@ -4,7 +4,7 @@ namespace Thermometer
 {
     class Thermometer
     {
-        public Double result;
+        public Double result;//
    
         public void celciusToFahrenheit(Double celcius) 
         {
